@@ -11,7 +11,7 @@ Homepage: https://electrum.org/
 [![Test coverage statistics](https://coveralls.io/repos/github/spesmilo/electrum/badge.svg?branch=master)](https://coveralls.io/github/spesmilo/electrum?branch=master)
 [![Help translate Electrum online](https://d322cqt584bo4o.cloudfront.net/electrum/localized.svg)](https://crowdin.com/project/electrum)
 
-
+0100-05915377-12
 ## Getting started
 
 _(If you've come here looking to simply run Electrum,
